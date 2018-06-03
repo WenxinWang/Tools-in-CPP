@@ -1,3 +1,8 @@
+/*
+* Date: June 2, 2018
+* From book page: P8
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <Windows.h>
